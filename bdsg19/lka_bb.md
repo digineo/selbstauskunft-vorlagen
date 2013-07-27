@@ -1,0 +1,9 @@
+auf der Grundlage von §19 I Bundesdatenschutzgesetz (BDSG),
+§18 Brandenburgisches Datenschutzgesetz (BbgDSG) sowie
+§71 I Brandenburgisches Polizeigesetz (BbgPolG) bitte ich Sie um Auskunft über
+die durch Ihre Behörde zu meiner Person in Systemen der elektronischen
+Datenerfassung und -verarbeitung gespeicherten Daten, im Besonderen zu Datensätzen
+in den Datenbanksystemen PASS und ASS.
+
+Ebenfalls bitte ich Sie um Auskunft über die Herkunft der Daten sowie Zweck und
+Empfänger von Übermittlungen dieser Daten.
