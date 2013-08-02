@@ -15,3 +15,9 @@ Sie um Auskunft zu folgenden Punkten:
 + über die Herkunft der Daten, soweit diese gespeichert oder sonst bekannt ist;
 
 + über die Empfänger oder die Gruppen von Empfängern, an die die Daten übermittelt wurden.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

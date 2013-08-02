@@ -7,3 +7,9 @@ in den Datenbanksystemen PASS und ASS.
 
 Ebenfalls bitte ich Sie um Auskunft über die Herkunft der Daten sowie Zweck und
 Empfänger von Übermittlungen dieser Daten.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

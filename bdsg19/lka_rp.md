@@ -1,6 +1,6 @@
 auf der Grundlage von §19 I Bundesdatenschutzgesetz (BDSG),
 §40 I Polizei- und Ordnungsbehördengesetz Rheinland-Pfalz (POG) sowie
-§18 Abs.~1 und 3 Landesdatenschutzgesetz (LDSG) bitte ich Sie um Auskunft zu
+§18 Abs. 1 und 3 Landesdatenschutzgesetz (LDSG) bitte ich Sie um Auskunft zu
 folgenden Punkten:
 
 + über die durch das Landeskriminalamt Rheinland-Pfalz zu meiner Person in
@@ -15,3 +15,9 @@ folgenden Punkten:
 
 + über den strukturierten Ablauf der automatisierten Verarbeitung der meine
   Person betreffenden Daten.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

@@ -9,3 +9,9 @@ Zweck und ggf. die Rechtsgrundlage der Speicherung.
 
 Soweit meine Daten in Akten gespeichert sind, bitte ich gemäß §18 II DSG NRW
 um Akteneinsicht.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

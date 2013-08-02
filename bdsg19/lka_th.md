@@ -18,3 +18,5 @@ Vorsorglich weise ich darauf hin, dass ich dies als hinreichend im
 Hinblick auf §47 I ThürPAG ansehe. Da mir kaum stichhaltigere Gründe
 für ein Auskunftsverlangens einfallen als eben die Wahrnehmung eines
 Grundrechts, werde ich keine weiteren Gründe angeben.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

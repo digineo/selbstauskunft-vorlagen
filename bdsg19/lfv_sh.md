@@ -5,3 +5,9 @@ Sie um Auskunft über die von Ihrer Behörde (auch im Wege der Auftragsdatenvera
 etwa in NADIS) zu meiner Person in System zur elektronischen Datenverarbeitung
 gespeicherten Daten, den Zweck der Speicherung sowie, soweit möglich, die Herkunft
 der Daten und im Fall einer Übermittlung deren Empfänger.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

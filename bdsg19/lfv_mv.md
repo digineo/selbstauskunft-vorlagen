@@ -6,3 +6,9 @@ und -verarbeitung gespeicherten Daten, im Besonderen über personenbezogene Date
 die der Verfassungsschutz Mecklenburg-Vorpommern zu meiner Person in NADIS pflegt,
 den Zweck und ggf. die Rechtsgrundlage der Speicherung sowie eventuelle Empfänger
 der Daten.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

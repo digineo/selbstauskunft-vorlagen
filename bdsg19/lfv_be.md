@@ -10,3 +10,9 @@ zu folgenden Punkten Auskunft:
   ich um Mitteilung, welche Stelle auskunftsbefugt ist;
 
 + über den Zweck und die Rechtsgrundlage der Speicherung und Verarbeitung.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

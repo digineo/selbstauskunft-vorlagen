@@ -5,3 +5,9 @@ in Systemen der elektronischen Datenerfassung und -verarbeitung gespeicherten Da
 im Besonderen über personenbezogene Datensätze, die das Landesamt für Verfassungsschutz
 Bremen in NADIS pflegt, den Zweck der Speicherung sowie, soweit möglich, die Herkunft
 der Daten und im Fall einer Übermittlung deren Empfänger.
+
+Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
+meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
+Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

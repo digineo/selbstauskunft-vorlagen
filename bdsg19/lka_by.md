@@ -16,3 +16,5 @@ Meiner Anfrage liegt ein generelles Informationsinteresse aufgrund der vom
 bayerischen Landesbeauftragen für Datenschutz regelmäßig gerügten Missbräuche
 Ihrer Behörde unter Wahrnehmung meines verfassungsrechtlich verbürgten
 Grundrechts auf informationelle Selbstbestimmung zugrunde.
+
+Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.
