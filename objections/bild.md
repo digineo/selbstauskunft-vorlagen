@@ -1,4 +1,4 @@
-es ist bekannt geworden, dass Sie noch in diesem Jahr 2014 zu zwei bestimmten
+mir ist bekannt geworden, dass Sie noch in diesem Jahr 2014 zu zwei bestimmten
 Gelegenheiten (Fußball-Weltmeisterschaft und Mauerfall-Jubiläum) die Bild-Zeitung
 in einer Sonderaktion an alle ca. 41 Millionen Haushalte in Deutschland verteilen
 wollen.
@@ -35,4 +35,3 @@ meines Schreibens bei Ihnen im Haus.
 Sollte Löschung und/oder Sperrung aus irgendeinem Grund im Einzelfall nicht
 möglich oder aus Ihrer Sicht nicht sinnvoll sein, erwarte ich dezidierte
 Benachrichtigung samt Erläuterung der Nicht-Durchsetzung meiner Forderung(en).
-
