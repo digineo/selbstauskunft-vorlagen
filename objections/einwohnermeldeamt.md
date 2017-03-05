@@ -4,9 +4,9 @@ hiermit widerspreche ich der Übermittlung von Daten nach dem Bundesmeldegesetz 
 
 + öffentlich-rechtliche Religionsgesellschaften; von Familienangehörigen der Mitglieder, die nicht derselben oder keiner öffentlich-rechtlichen Religionsgesellschaft angehören (§42 Abs. 2)
 
-+ Übermittlung an Parteien, Wählergruppen und andere Trägern von Wahlvorschlägen im Zusammenhang mit Wahlen und Abstimmungen auf staatlicher und kommunaler Ebene (§50 Abs. 1)
++ Parteien, Wählergruppen und andere Trägern von Wahlvorschlägen im Zusammenhang mit Wahlen und Abstimmungen auf staatlicher und kommunaler Ebene (§50 Abs. 1)
 
-+ Presse oder Rundfunk sowie Mandatsträgern über Altersjubiläen (§50 Abs. 2)
++ Presse oder Rundfunk sowie Mandatsträgern über Alters- oder Ehejubiläen (§50 Abs. 2)
 
 + Adressbuchverlage (§50 Abs. 3)
 
