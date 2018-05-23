@@ -1,0 +1,9 @@
+#
+# Source: https://www.datenschmutz.de/li/docs/auskunft.py
+#
+# Der Quelltext und die enthaltenen Daten sind public domain. Wer den
+# Kram verbessert und die Verbesserungen nicht an die Allgemeinheit
+# zurückgibt, ist trotzdem ein Schuft.
+
+Anpassungen:
+- 25.05.2018: Austausch von '§19 I Bundesdatenschutzgesetz (BDSG)' gegen 'Artikel 15 der Datenschutz-Grundverordnung (DSGVO)'.

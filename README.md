@@ -5,18 +5,13 @@ Die Vorlagen aus diesem Repository kommen in dem Dienst [selbstauskunft.net](htt
 
 ## Arten von Vorlagen
 
-### Auskunftsersuchen nach §19 BDSG
+### Auskunftsanspruch nach Artikel 15 der Datenschutz-Grundverordnung (DSGVO)
 
 Ein allgemeines Anschreiben, sowie spezielle Anschreiben für Zoll, Polizei und Verfassungsschutz.
 
 Lizenz: Public Domain
 Quelle: https://www.datenschmutz.de/li/docs/auskunft.py
 Die Vorlagen stammen aus dem [Auskunftsgenerator von datenschmutz.de](https://www.datenschmutz.de/cgi-bin/auskunft).
-
-
-### Auskunftsersuchen nach §34 BDSG
-
-Generelle Vorlage für Unternehmen, die nach §34 BDSG auskunftspflichtig sind.
 
 
 ### Widersprüche zur Datenverarbeitung
