@@ -6,5 +6,3 @@ bitte ich Sie um Auskunft über die zu meiner Person gespeicherten Daten.
 Meiner Anfrage liegt ein generelles Informationsinteresse unter Wahrnehmung
 meines verfassungsrechtlich verbürgten Grundrechts auf informationelle
 Selbstbestimmung zugrunde.
-
-Zum Zwecke der Identitätsfeststellung habe ich eine Ausweiskopie beigefügt.

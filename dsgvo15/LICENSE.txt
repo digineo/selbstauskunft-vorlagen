@@ -6,4 +6,5 @@
 # zurückgibt, ist trotzdem ein Schuft.
 
 Anpassungen:
+- 21.07.2021: Absatz zur Ausweiskopie entfernt.
 - 25.05.2018: Austausch von '§19 I Bundesdatenschutzgesetz (BDSG)' gegen 'Artikel 15 der Datenschutz-Grundverordnung (DSGVO)'.
